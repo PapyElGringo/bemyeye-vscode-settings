@@ -2,7 +2,7 @@
     "name": "bemyeye-vscode-settings",
     "displayName": "BeMyEye Extensions Pack",
     "description": "Visual Studio Code's extensions for BeMyEye developers",
-    "icon": "images/angular-shield.png",
+    "icon": "images/BeMyEye-logo.png",
     "galleryBanner": {
         "color": "#0273D4",
         "theme": "dark"
@@ -17,7 +17,7 @@
         "Angular"
     ],
     "version": "1.0.0",
-    "publisher": "PapyElGringo",
+    "publisher": "adrienpeslerbe",
     "engines": {
         "vscode": "^1.12.0"
     },
