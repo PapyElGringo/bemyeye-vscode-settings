@@ -1,0 +1,39 @@
+{
+    "name": "bemyeye-vscode-settings",
+    "displayName": "BeMyEye Extensions Pack",
+    "description": "Visual Studio Code's extensions for BeMyEye developers",
+    "icon": "images/angular-shield.png",
+    "galleryBanner": {
+        "color": "#0273D4",
+        "theme": "dark"
+    },
+    "license": "SEE LICENSE IN LICENSE.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/PapyElGringo/bemyeye-vscode-settings.git"
+    },
+    "keywords": [
+        "BeMyEye",
+        "Angular"
+    ],
+    "version": "1.0.0",
+    "publisher": "PapyElGringo",
+    "engines": {
+        "vscode": "^1.12.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionDependencies": [
+        "sanderledegen.angular-follow-selector",
+        "Angular.ng-template",
+        "johnpapa.angular2",
+        "eg2.tslint",
+        "formulahendry.auto-close-tag",
+        "formulahendry.auto-rename-tag",
+        "HookyQR.beautify",
+        "geddski.macros",
+        "christian-kohler.path-intellisense",
+        "natewallace.angular2-inline"
+    ]
+}
