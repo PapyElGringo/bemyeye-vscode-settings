@@ -16,7 +16,7 @@
         "BeMyEye",
         "Angular"
     ],
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "adrienpeslerbe",
     "engines": {
         "vscode": "^1.12.0"
@@ -27,13 +27,11 @@
     "extensionDependencies": [
         "sanderledegen.angular-follow-selector",
         "Angular.ng-template",
-        "johnpapa.angular2",
+        "Mikael.angular-beastcode",
         "eg2.tslint",
         "formulahendry.auto-close-tag",
         "formulahendry.auto-rename-tag",
         "HookyQR.beautify",
-        "geddski.macros",
-        "christian-kohler.path-intellisense",
         "natewallace.angular2-inline"
     ]
 }
